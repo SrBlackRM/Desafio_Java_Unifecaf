@@ -1,6 +1,0 @@
-Nome: Michel Rodrigues Mota
-RA: 39392
-Turma: ADS3NC
-Horário: Noturno
-
-Link -> https://github.com/SrBlackRM/Desafio_Java_Unifecaf
